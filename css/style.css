@@ -1,0 +1,12 @@
+/* Add all your styles here */
+img.image{
+  height:200px;
+  align:center;
+  margin-left:115px;
+  filter: brightness(120%);
+  filter: contrast(120%);
+  filter: drop-shadow(10px 10px 10px black);
+}
+.mag{
+  margin:15px;
+}
